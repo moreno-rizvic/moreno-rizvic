@@ -1,5 +1,3 @@
-# 💻 GitHub Profil von...
-
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=MORENO%20RIZVIC&fontSize=90&fontAlignY=35&desc=Application%20Developer%20%7C%20Security%20Enthusiast&descAlignY=52&descSize=22&animation=twinkling)
@@ -70,10 +68,19 @@ Ich entwickle Web- und Desktop-Anwendungen und vertiefe mich zunehmend in die Be
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moreno-rizvic&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moreno-rizvic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moreno-rizvic&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moreno-rizvic&theme=tokyonight" height="180"/>
+
+</div>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moreno-rizvic&theme=tokyonight"/>
 
 </div>
 
@@ -89,16 +96,6 @@ Ich entwickle Web- und Desktop-Anwendungen und vertiefe mich zunehmend in die Be
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moreno-rizvic)
 
 </div>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+applications...;Learning+security...;Going+deeper+into+the+system...)
-
-</div>
-
----
 
 <div align="center">
 
